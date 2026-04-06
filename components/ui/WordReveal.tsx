@@ -25,7 +25,7 @@ export function WordReveal({ text, className, delay = 0 }: WordRevealProps) {
             transition={{
               duration: 0.5,
               delay: delay + i * 0.05,
-              ease: [0.16, 1, 0.3, 1],
+              ease: [0.16, 1, 0.3, 1] as [number, number, number, number],
             }}
           >
             {word}

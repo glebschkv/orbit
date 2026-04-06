@@ -5,7 +5,7 @@ import { DotGrid } from "./DotGrid";
 import { TextScramble } from "./TextScramble";
 import { MagneticButton } from "@/components/ui/MagneticButton";
 
-const ease = [0.16, 1, 0.3, 1];
+const ease: [number, number, number, number] = [0.16, 1, 0.3, 1];
 
 const fadeUp = (delay: number) => ({
   hidden: { opacity: 0, y: 30 },

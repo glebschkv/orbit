@@ -34,7 +34,7 @@ export function FinalCTA() {
 
         <motion.div variants={fadeUp}>
           <MagneticButton
-            href="#calendly"
+            href="https://calendly.com/suchkov-gleb/30min"
             className="inline-block bg-accent text-white px-10 py-4 rounded-xl text-[16px] font-bold transition-colors duration-250 ease-out hover:bg-accent-hover"
             style={{
               boxShadow: "0 0 40px var(--color-accent-subtle)",

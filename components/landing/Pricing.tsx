@@ -98,7 +98,7 @@ export function Pricing() {
 
             {/* CTA button */}
             <MagneticButton
-              href="#calendly"
+              href="https://calendly.com/suchkov-gleb/30min"
               className="block w-full text-center bg-accent text-white px-8 py-4 rounded-xl text-[16px] font-bold transition-colors duration-250 ease-out hover:bg-accent-hover"
               style={{
                 boxShadow: "0 0 40px var(--color-accent-subtle)",

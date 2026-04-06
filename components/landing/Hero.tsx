@@ -63,7 +63,7 @@ export function Hero() {
           variants={fadeUp(0.15)}
           className="font-sans font-black text-[clamp(44px,7vw,76px)] tracking-[-0.04em] leading-[1.05] text-text-primary max-w-[800px] text-center mb-6"
         >
-          <TextScramble text="560K" delay={400} className="font-mono" /> impressions.
+          <TextScramble text="613K" delay={400} className="font-mono" /> impressions.
           <br />
           Zero followers. Ten days.
         </motion.h1>

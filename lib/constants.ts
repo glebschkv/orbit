@@ -1,7 +1,7 @@
 export const STATS = [
-  { number: 560, suffix: "K", label: "IMPRESSIONS" },
+  { number: 613.1, suffix: "K", label: "IMPRESSIONS" },
   { number: 10, suffix: "", label: "DAYS" },
-  { number: 6.3, suffix: "K", label: "ENGAGEMENTS" },
+  { number: 7, suffix: "K", label: "ENGAGEMENTS" },
   { number: 0, prefix: "$", suffix: "", label: "AD SPEND" },
 ];
 
@@ -31,10 +31,10 @@ export const PROCESS_STEPS = [
 
 export const PROOF_METRICS = [
   {
-    metric: "560K",
+    metric: "613K",
     label: "impressions in 10 days",
     context:
-      "Average 56,000 per day from an account with 0 followers at the time.",
+      "Average 61,300 per day from an account with 0 followers at the time.",
   },
   {
     metric: "100K+",
@@ -91,7 +91,7 @@ export const FAQ_ITEMS = [
   {
     question: "What kind of results should I expect?",
     answer:
-      "We grew a brand new account to 560K impressions in 10 days. Your results depend on your niche and audience, but most clients see meaningful traction within the first two to four weeks. We focus on getting your profile in front of the right people \u2014 potential customers, investors, collaborators.",
+      "We grew a brand new account to 613K impressions in 10 days. Your results depend on your niche and audience, but most clients see meaningful traction within the first two to four weeks. We focus on getting your profile in front of the right people \u2014 potential customers, investors, collaborators.",
   },
   {
     question: "Why is there a 3-month minimum?",

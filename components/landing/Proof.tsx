@@ -64,7 +64,7 @@ export function Proof() {
           ))}
         </motion.div>
 
-        {/* Screenshot placeholder */}
+        {/* Analytics screenshot */}
         <motion.div variants={fadeUp}>
           <div
             className="mt-10 border border-border rounded-2xl p-2 bg-surface"
@@ -72,14 +72,14 @@ export function Proof() {
               boxShadow: "0 0 80px rgba(79, 143, 247, 0.06)",
             }}
           >
-            <div className="w-full aspect-video rounded-xl bg-border flex items-center justify-center">
-              <p className="font-mono text-sm text-text-muted">
-                analytics screenshot
-              </p>
-            </div>
+            <img
+              src="/analytics.png"
+              alt="X analytics dashboard — @adshotco — March 27 to April 6, 2026"
+              className="w-full rounded-xl"
+            />
           </div>
           <p className="mt-4 text-center font-mono text-xs text-text-muted">
-            live analytics &mdash; @adshotco &mdash; march 27 to april 5, 2026
+            live analytics &mdash; @adshotco &mdash; march 27 to april 6, 2026
           </p>
         </motion.div>
       </motion.div>
